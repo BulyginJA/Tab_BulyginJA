@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tab BulyginJA</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="cont_desc_1">Фиолетовый букет</string>
+    <string name="cont_desc_2">Красный букет</string>
+    <string name="cont_desc_3">Жёлтый букет</string>
+</resources>
